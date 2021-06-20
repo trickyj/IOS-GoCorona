@@ -10,10 +10,13 @@
 3. has onnly 1 image.
 ```
 
-![app screenshot](/Screenshots/screenshot1.png =500x400)
+![app screenshot](/Screenshots/screenshot1.png)
 
+<a href="/Screenshots/screenshot1.png"><img src="/Screenshots/screenshot1.png">Screenshot</a>
 
 #### there were few errors I came across which has been published on my blog
-https://scrollunlock.wordpress.com - Blog ScrollUnlock!
 
-##contact :point_right:	 http://ampli5.me - By Ampli5.me!
+Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com 
+
+by Ampli5 :point_right:	 http://ampli5.me
+
