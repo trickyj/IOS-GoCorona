@@ -12,5 +12,6 @@
 #### there were few errors I came across which has been published on my blog
 
 <a href="https://scrollunlock.wordpress.com/">ScrollUnlock</a>
-Regards,
+<br>
+Regards, <br>
 <a href="http://ampli5.me">Ampli5.me</a>
