@@ -15,5 +15,7 @@
 
 #### there were few errors I came across which has been published on my blog
 
-![Blog - ScrollUnlock](https://scrollunlock.wordpress.com)
-![By Ampli5.me](http://ampli5.me)
+
+
+https://scrollunlock.wordpress.com - Blog ScrollUnlock!
+http://ampli5.me - By Ampli5.me!
