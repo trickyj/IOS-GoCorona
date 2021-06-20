@@ -10,7 +10,7 @@
 3. has onnly 1 image.
 ```
 
-<a href="/Screenshots/screenshot1.png"><img src="/Screenshots/screenshot1.png" height="600" width="450">Screenshot</a>
+<a href="/Screenshots/screenshot1.png"><img src="/Screenshots/screenshot1.png" height="600" width="450"></a>
 
 #### there were few errors I came across which has been published on my blog
 
