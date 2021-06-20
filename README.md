@@ -10,12 +10,10 @@
 3. has onnly 1 image.
 ```
 
-![app screenshot](/Screenshots/screenshot1.png)
+![app screenshot](/Screenshots/screenshot1.png =500x400)
 
 
 #### there were few errors I came across which has been published on my blog
-
-
-
 https://scrollunlock.wordpress.com - Blog ScrollUnlock!
-http://ampli5.me - By Ampli5.me!
+
+##contact :point_right:	 http://ampli5.me - By Ampli5.me!
