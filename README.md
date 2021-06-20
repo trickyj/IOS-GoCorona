@@ -11,13 +11,9 @@
 ```
 
 ![app screenshot](/Screenshots/screenshot1.png)
-Format: ![Alt Text](url)
 
 
 #### there were few errors I came across which has been published on my blog
 
-
-<a href="https://scrollunlock.wordpress.com/">ScrollUnlock</a>
-<br>
-Regards, <br>
-<a href="http://ampli5.me">Ampli5.me</a>
+![Blog - ScrollUnlock](https://scrollunlock.wordpress.com)
+![By Ampli5.me](http://ampli5.me)
