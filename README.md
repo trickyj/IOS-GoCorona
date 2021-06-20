@@ -10,9 +10,7 @@
 3. has onnly 1 image.
 ```
 
-![app screenshot](/Screenshots/screenshot1.png)
-
-<a href="/Screenshots/screenshot1.png"><img src="/Screenshots/screenshot1.png">Screenshot</a>
+<a href="/Screenshots/screenshot1.png"><img src="/Screenshots/screenshot1.png" height="600" width="450">Screenshot</a>
 
 #### there were few errors I came across which has been published on my blog
 
