@@ -18,4 +18,4 @@ Blog ScrollUnlock :point_right: https://scrollunlock.wordpress.com
 
 by Ampli5 :point_right: http://ampli5.me
 
-<a href="www.ampli5.me"><img src="./Screenshots/logo.png" height="80" width="80"></a>
+### powered by ![End Banner](Documentation/logo.png)
